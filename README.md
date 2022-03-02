@@ -5,7 +5,7 @@
 
 
 <p style = display: "inline_block" align = "center" >
-  <img align = "left" width = "400px" src="https://github-readme-stats.vercel.app/api?username=SuiCarrot&show_icons=true&theme=great-gatsby"><img width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=SuiCarrot&theme=green-blue"> 
+  <img align = "left" width = "400px" src="https://github-readme-stats.vercel.app/api?username=SuiCarrot&show_icons=true&theme=great-gatsby"><img width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=SuiCarrot&theme=great-gatsby"> 
    <p/>
   
   #
