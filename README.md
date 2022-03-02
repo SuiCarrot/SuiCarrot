@@ -16,7 +16,7 @@
 
   ##
   <div>
-<a href= "https://www.linkedin.com/in/bruno-de-lucca-026369220/"/> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/><a href= "https://wa.me/554791038292"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/> <a href= "discordapp.com/users/468060937988079617"/> <img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/>
+<a href= "https://www.linkedin.com/in/bruno-de-lucca-026369220/"/> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/><a href= "https://wa.me/554791038292"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
    <div/>
    
 ## 
