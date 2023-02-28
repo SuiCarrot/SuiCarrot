@@ -21,7 +21,7 @@
 <img src="https://img.icons8.com/color/48/null/nextjs.png"/>
 <img src="https://img.icons8.com/color/48/null/nestjs.png"/>
 <img src="https://img.icons8.com/color/48/null/docker.png"/>
-<img src="https://img.icons8.com/ios/48/null/sql.png"/>
+<img src="https://img.icons8.com/external-bearicons-detailed-outline-bearicons/47/null/external-SQL-file-extension-bearicons-detailed-outline-bearicons.png"/>
 <img src="https://img.icons8.com/color/48/null/mongodb.png"/>
 
     <div/>
