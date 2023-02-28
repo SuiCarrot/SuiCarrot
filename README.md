@@ -26,7 +26,7 @@
 
   ##
   <div>
-<a href= "https://www.linkedin.com/in/bruno-de-lucca-026369220/"/> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/><a href= "https://wa.me/554791038292"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
+<a target="blank" href="https://www.linkedin.com/in/bruno-de-lucca-026369220/"/> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/><a href= "https://wa.me/554791038292"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
    <div/>
    
 ## 
