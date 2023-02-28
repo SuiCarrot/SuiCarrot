@@ -18,7 +18,7 @@
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/officel/48/null/react.png"/>
-<img src="https://img.icons8.com/color/48/null/nextjs.png"/>
+<img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
 <img src="https://img.icons8.com/color/48/null/nestjs.png"/>
 <img src="https://img.icons8.com/color/48/null/docker.png"/>
 <img src="https://img.icons8.com/external-outline-juicy-fish/47/FFFFFF/external-sql-coding-and-development-outline-outline-juicy-fish.png"/>
