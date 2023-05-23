@@ -1,5 +1,5 @@
 # Hello there, I`m Bruno <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="50px" margin="50px">
-#### Started my journey in [*Blue Edtech*](https://github.com/blue-edtech), after a few months started working in the company [*Botpag*] and been there for almost a year as a full stack developer.
+#### Started my journey in [*Blue Edtech*](https://github.com/blue-edtech), after a few months started working in the company *Botpag* and been there for more than a year as a full stack developer.
 ##
 
 
