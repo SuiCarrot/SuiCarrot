@@ -2,12 +2,6 @@
 #### Started my journey in [*Blue Edtech*](https://github.com/blue-edtech), after a few months started working in the company *Botpag* and been there for more than a year as a full stack developer.
 ##
 
-
-<p style = display: "inline_block" align = "center" >
-  <img align = "left" width = "400px" src="https://github-readme-stats.vercel.app/api?username=SuiCarrot&show_icons=true&theme=great-gatsby"><img width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=SuiCarrot&theme=great-gatsby"> 
-   <p/>
-  
-  #
   
 <div style = display: "inline block" align = "center" margin = "0px"> 
    <img style = display: "inline_block" align = "left" width = "390" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=SuiCarrot&theme=great-gatsby">
