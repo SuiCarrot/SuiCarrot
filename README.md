@@ -30,14 +30,6 @@ I’m a backend-focused developer dedicated to building scalable, resilient syst
 
 ---
 
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuiCarrot&theme=great-gatsby&layout=compact&hide=html,css">
-</div>
-
----
-
 ### 📬 Connect with me
 
 <div align="left">
