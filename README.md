@@ -49,6 +49,3 @@ I’m a backend-focused developer dedicated to building scalable, resilient syst
   </a>
 </div>
 
----
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
