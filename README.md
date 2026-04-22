@@ -19,9 +19,9 @@ I’m a backend developer focused on building scalable, event-driven systems and
   <img src="https://img.icons8.com/color/48/null/nestjs.png" title="NestJS"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" title="JavaScript"/>
   
-  <img src="https://icons8.com/icons/set/google-cloud" title="GCP"/>
+  <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" title="GCP"/>
   <img src="https://img.icons8.com/color/48/null/docker.png" title="Docker"/>
-  <img src="https://techicons.dev/icons/rabbitmq" title="RabbitMQ"/>
+  <img src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg" title="RabbitMQ"/>
   
   <img src="https://img.icons8.com/color/48/null/mongodb.png" title="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
