@@ -1,13 +1,13 @@
 # Hi, I'm Bruno! <img src="https://github.com/Leoruiz197/Leoruiz197/blob/main/img/Hi.gif" width="35px">
 
-#### Backend Software Engineer | Node.js & TypeScript | DevOps Enthusiast
+#### Software Engineer | Node.js & TypeScript | Cloud & Architecture
 
-I’m a backend-focused developer dedicated to building scalable, resilient systems and high-performance APIs. Beyond writing code, I have a strong interest in Infrastructure and Observability, ensuring that applications are not just functional, but reliable and easy to monitor.
+I’m a backend developer focused on building scalable, event-driven systems and high-performance APIs. I bridge the gap between clean code and reliable infrastructure, specializing in robust backend architectures that stand up to production demands.
 
-- 🛠️ Currently working with: **Node.js, TypeScript, and SQL/NoSQL databases.**
-- 🚀 Deepening my knowledge in: **System Design, Distributed Systems, and Observability.**
-- 📊 Experience with: **Implementing Datadog (APM/Monitoring) and CI/CD pipelines.**
-- 🧙‍♂️ Still talking to rubber ducks to solve complex bugs.
+- 🛠️ **Main Stack:** Node.js, TypeScript, and Google Cloud Platform (GCP).
+- 🚀 **Architecture & Patterns:** Deeply interested in Event-Driven Design (RabbitMQ), Microservices, and Clean Architecture.
+- 📊 **Observability & DevOps:** Experience implementing Datadog (APM), Dockerization, and CI/CD pipelines to ensure system reliability.
+- 🧠 **Problem Solver:** Driven by technical challenges and focused on delivering maintainable, well-tested code.
 
 ---
 
@@ -19,11 +19,13 @@ I’m a backend-focused developer dedicated to building scalable, resilient syst
   <img src="https://img.icons8.com/color/48/null/nestjs.png" title="NestJS"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" title="JavaScript"/>
   
+  <img src="https://img.icons8.com/color/48/000000/google-cloud-central.png" title="GCP"/>
   <img src="https://img.icons8.com/color/48/null/docker.png" title="Docker"/>
-  <img src="https://img.icons8.com/color/48/null/mongodb.png" title="MongoDB"/>
-  <img src="https://img.icons8.com/external-outline-juicy-fish/47/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png" title="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/rabbitmq.png" title="RabbitMQ"/>
   
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/null/mongodb.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
+  
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" title="Bash/Linux"/>
 </div>
@@ -40,4 +42,3 @@ I’m a backend-focused developer dedicated to building scalable, resilient syst
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
   </a>
 </div>
-
