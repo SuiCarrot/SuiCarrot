@@ -14,20 +14,20 @@ I’m a backend developer focused on building scalable, event-driven systems and
 ### 🛠️ Tech Stack & Tools
 
 <div style="display: inline_block">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/null/nestjs.png" title="NestJS"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="40"/>
   
-  <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" title="GCP"/>
-  <img src="https://img.icons8.com/color/48/null/docker.png" title="Docker"/>
-  <img src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg" title="RabbitMQ"/>
+  <img src="https://skillicons.dev/icons?i=gcp" title="GCP" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="40"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" height="40"/>
   
-  <img src="https://img.icons8.com/color/48/null/mongodb.png" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="40"/>
   
-  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" title="Bash/Linux"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" height="40"/>
 </div>
 
 ---
