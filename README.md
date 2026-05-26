@@ -4,7 +4,7 @@
 
 I’m a backend developer focused on building scalable, event-driven systems and high-performance APIs. I bridge the gap between clean code and reliable infrastructure, specializing in robust backend architectures that stand up to production demands.
 
-- 🛠️ **Main Stack:** Node.js, TypeScript, and Google Cloud Platform (GCP).
+- 🛠️ **Main Stack:** Node.js, TypeScript, AWS and Google Cloud Platform (GCP).
 - 🚀 **Architecture & Patterns:** Deeply interested in Event-Driven Design (RabbitMQ), Microservices, and Clean Architecture.
 - 📊 **Observability & DevOps:** Experience implementing Datadog (APM), Dockerization, and CI/CD pipelines to ensure system reliability.
 - 🧠 **Problem Solver:** Driven by technical challenges and focused on delivering maintainable, well-tested code.
